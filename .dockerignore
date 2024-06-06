@@ -1,3 +1,2 @@
-__pycache__
-*.pyc
-.git
+venv
+_*pycache*_
